@@ -2,25 +2,25 @@ type CaseStudy = { tag: string; title: string; desc: string; tech: string; impac
 
 const cases: CaseStudy[] = [
   {
-    tag: "NGO / HRMS",
-    title: "How We Digitized HR Operations for a Leading Organization",
-    desc: "Reduced manual HR processing by 70% and improved payroll accuracy across 3,200 employees.",
+    tag: "HRMS / ENTERPRISE",
+    title: "Streamlining HR Operations with Tafuri HRMS",
+    desc: "A comprehensive HR management platform covering employee records, attendance, leave, payroll, recruitment, performance management, and employee self-service.",
     tech: "Tafuri HRMS",
-    impact: "70% Faster",
+    impact: "70% Faster End-to-End HR Automation",
   },
   {
-    tag: "Retail / POS",
-    title: "Unified 42 Outlets on a Single Real-Time POS Platform",
-    desc: "Consolidated fragmented registers into one cloud POS with offline resilience and live inventory.",
-    tech: "Retail POS · Azure",
-    impact: "42 Stores Live",
+    tag: "ASSET / ENTERPRISE",
+    title: "Digitizing Enterprise Asset Management with Barcode Tracking",
+    desc: "Enabled complete asset lifecycle management through barcode-based tracking, inventory control, asset allocation, maintenance scheduling, and real-time reporting",
+    tech: "Barcode Tracking System",
+    impact: "10k+ Asset Visibility",
   },
   {
-    tag: "Manufacturing / ERP",
-    title: "Custom ERP Cut Procurement Cycle Time in Half",
-    desc: "Replaced spreadsheets and email approvals with a governed workflow across four factory sites.",
-    tech: "Custom ERP · .NET",
-    impact: "50% Cycle Cut",
+    tag: "Custom Software",
+    title: "Building Custom Enterprise Solutions for Digital Transformation",
+    desc: "Developed scalable business applications and process automation systems that improve operational efficiency across multiple industries.",
+    tech: "Custom Enterprise Software",
+    impact: "50% Faster Workflows",
   },
 ];
 
