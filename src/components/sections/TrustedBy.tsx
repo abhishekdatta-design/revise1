@@ -72,7 +72,7 @@ export function TrustedBy() {
                   loading="lazy"
                   decoding="async"
                   draggable={false}
-                  className="h-18 w-auto object-contain opacity-80 transition-opacity hover:opacity-100 sm:h-26"
+                  className="h-20 w-auto object-contain opacity-80 transition-opacity hover:opacity-100 sm:h-26"
                 />
               </div>
             ))}
