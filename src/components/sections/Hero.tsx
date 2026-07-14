@@ -5,7 +5,7 @@ import { NodeMotif } from "@/components/layout/NodeMotif";
 
 const SPECIALIZATIONS = [
   "AI & Machine Learning",
-  "Enterprise Software (ERP, HRMS & CRM)",
+  "Enterprise Software",
   "Cloud & DevOps",
   "Embedded Systems",
   "Website Development",
