@@ -6,7 +6,7 @@ const cases: CaseStudy[] = [
     title: "Streamlining HR Operations with Tafuri HRMS",
     desc: "A comprehensive HR management platform covering employee records, attendance, leave, payroll, recruitment, performance management, and employee self-service.",
     tech: "Tafuri HRMS",
-    impact: "70% Faster End-to-End HR Automation",
+    impact: "70% Faster Operation",
   },
   {
     tag: "ASSET / ENTERPRISE",
