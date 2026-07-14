@@ -37,12 +37,7 @@ function AboutPage() {
   <section className="bg-background py-20">
   <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
     <div className="max-w-4xl space-y-5 text-base leading-relaxed text-muted-foreground sm:text-lg">
-      <p> 
-        Our expertise spans enterprise software development, web and mobile application development, UI/UX design, system integration, cloud-based solutions, and digital transformation services. We also provide dedicated offshore development teams and resource augmentation services, enabling organizations to expand their engineering capabilities with highly skilled professionals.
-      </p>
-      <p>
-       Beyond custom software development, Neural Soft Limited offers a suite of enterprise-ready products designed to streamline business operations, including Tafuri HRMS, Asset Management System, Retail Campaign Management, and other business automation solutions tailored to modern organizations.
-      </p>
+  
     </div>
   
       <StatsStrip />
