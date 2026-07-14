@@ -88,7 +88,7 @@ export function TechStack() {
                       alt={t.name}
                       loading="lazy"
                       decoding="async"
-                      className="size-5 object-contain"
+                      className="size-7 object-contain"
                       aria-hidden
                     />
                     {t.name}
