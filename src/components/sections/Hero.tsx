@@ -61,7 +61,7 @@ export function Hero() {
       <div className="relative mx-auto max-w-7xl px-4 py-20 sm:px-6 lg:px-8 lg:py-28">
         <div className="max-w-4xl">
           <span className="inline-flex items-center rounded-full bg-accent-soft px-3 py-1 text-xs font-semibold uppercase tracking-wide text-primary-dark">
-            Custom Software · AI · Enterprise
+             AI · Enterprise . Custom software
           </span>
           <h1 className="mt-6 text-4xl font-bold leading-tight tracking-tight text-foreground sm:text-5xl lg:text-6xl">
             Custom Software Solutions for Growing Businesses
